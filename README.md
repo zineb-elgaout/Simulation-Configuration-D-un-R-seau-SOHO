@@ -11,7 +11,7 @@ Ce projet simule la **conception, la configuration et la sécurisation d’un r�
 - [📖 À propos du projet](#-à-propos-du-projet)
 - [🧰 Prérequis](#-prérequis)
 - [🧩 Architecture réseau](#-architecture-réseau)
-- [📖 Détail de la configuration](#détail-de-la-configuration)
+- [📖 Détail de la configuration](#-détail-de-la-configuration)
 - [🎯 Objectifs](#-objectifs)
 - [📌 Statut du projet](#-statut-du-projet)
 - [📬 Contact](#-contact)
