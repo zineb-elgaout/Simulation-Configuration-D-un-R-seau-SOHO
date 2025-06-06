@@ -12,7 +12,7 @@ Ce projet simule la **conception, la configuration et la sécurisation d’un r�
 - [🧰 Prérequis](#-prérequis)
 - [🧩 Architecture réseau](#-architecture-réseau)
 - [⚙️ Configuration détaillée](#-configuration-détaillée)
-- [🎯 Objectifs](#-objectifs-pédagogiques)
+- [🎯 Objectifs](#-objectifs)
 - [📌 Statut du projet](#-statut-du-projet)
 - [📬 Contact](#-contact)
 
