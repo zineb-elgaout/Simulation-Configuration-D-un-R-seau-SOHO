@@ -11,7 +11,7 @@ Ce projet simule la **conception, la configuration et la sécurisation d’un r�
 - [📖 À propos du projet](#-à-propos-du-projet)
 - [🧰 Prérequis](#-prérequis)
 - [🧩 Architecture réseau](#-architecture-réseau)
-- [⚙️ Configuration détaillée](#-configuration-détaillée)
+- [📖 Détail de la configuration](#détail-de-la-configuration)
 - [🎯 Objectifs](#-objectifs)
 - [📌 Statut du projet](#-statut-du-projet)
 - [📬 Contact](#-contact)
@@ -65,7 +65,7 @@ Avant d’exécuter ou d’ouvrir le projet, assurez-vous d’avoir :
 
 ---
 
-## ⚙️ Configuration détaillée
+## 📖 Détail de la configuration
 
 Chaque équipement a été configuré étape par étape avec :
 
