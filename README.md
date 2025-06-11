@@ -1,4 +1,3 @@
-# Simulation-Configuration-D-un-R-seau-SOHO
 # 🏢 Projet Réseau SOHO – Novatech Solutions
 
 Ce projet simule la **conception, la configuration et la sécurisation d’un réseau SOHO (Small Office/Home Office)** pour une entreprise fictive appelée **Novatech Solutions**, à l’aide de **Cisco Packet Tracer**. Il aborde les principes essentiels d’un réseau professionnel, de la couche physique à la couche réseau, en passant par la sécurité et la redondance.
